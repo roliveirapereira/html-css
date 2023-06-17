@@ -1,2 +1,2 @@
 # html-css
- curso de html
+ Estou aprendendo HTML 5 e CSS 3
