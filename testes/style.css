@@ -1,0 +1,11 @@
+@font-face {
+    font-family: myFont;
+    src: url(BrickShapers.otf);
+  }
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: myFont;
+    font-size: 40px;
+    margin: 20px 10px 0px 10px;
+}
